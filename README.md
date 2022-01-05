@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NazarShuhovscky
-- 👀 I’m interested in ... .NET Developer
-- 🌱 I’m currently learning ...ASP.NET
+- 👋 Hi, I’m NazarShuhovscky
+- 👀 I’m interested in Software Developing
+- 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
